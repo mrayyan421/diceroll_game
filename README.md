@@ -1,6 +1,6 @@
-# seven
+# diceGame
 
-A new Flutter project.
+A new Flutter game project.
 
 ## Getting Started
 
